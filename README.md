@@ -8,6 +8,7 @@ Here’s a ready-to-go version for your **Driving License Management System** pr
 A **Windows Forms Application** built with **C#** and **SQL Server** to manage driving license operations, including applicant registration, license issuance, renewals, and records management.
 
 ## ✨ Features
+- Remember me in Login
 - Add, edit, delete applicant information.
 - Issue new licenses and renew existing ones.
 - Search and filter license records.
@@ -33,6 +34,7 @@ A **Windows Forms Application** built with **C#** and **SQL Server** to manage d
 2. Open the solution file (`.sln`) at DVLD Folder in **Visual Studio**.
 3. Update the database connection string in `clsDataAccessSettings` in DVLD_DataAccess if needed.
 4. Build and run the application.
+
 
 ## 🛠️ Technologies Used
 - C# (.NET Framework)
