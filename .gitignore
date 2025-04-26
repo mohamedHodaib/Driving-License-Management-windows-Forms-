@@ -1,0 +1,12 @@
+bin/
+obj/
+*.suo
+*.user
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.dbproj.schemaview
+*.mdf
+*.ldf
