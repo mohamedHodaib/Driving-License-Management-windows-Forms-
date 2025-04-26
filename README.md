@@ -6,7 +6,7 @@ Here’s a ready-to-go version for your **Driving License Management System** pr
 # 📄 Driving License Management System
 
 ## 📸 Screenshot
-![Game Screenshot](screenshot.png)
+![Game Screenshot](ScreenShot.png)
 
 
 
