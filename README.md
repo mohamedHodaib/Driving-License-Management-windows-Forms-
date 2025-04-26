@@ -5,7 +5,14 @@ Here’s a ready-to-go version for your **Driving License Management System** pr
 
 # 📄 Driving License Management System
 
+## 📸 Screenshot
+![Game Screenshot](screenshot.png)
+
+
+
 A **Windows Forms Application** built with **C#** and **SQL Server** to manage driving license operations, including applicant registration, license issuance, renewals, and records management.
+
+
 
 ## ✨ Features
 - Remember me in Login
