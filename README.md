@@ -31,7 +31,7 @@ A **Windows Forms Application** built with **C#** and **SQL Server** to manage d
    git clone https://github.com/mohamedHodaib/Driving-License-Management-windows-Forms-.git
    ```
 2. Open the solution file (`.sln`) at DVLD Folder in **Visual Studio**.
-3. Update the database connection string in `App.config` if needed.
+3. Update the database connection string in `clsDataAccessSettings` in DVLD_DataAccess if needed.
 4. Build and run the application.
 
 ## 🛠️ Technologies Used
@@ -42,4 +42,13 @@ A **Windows Forms Application** built with **C#** and **SQL Server** to manage d
 
 ## 📜 License
 This project is for learning purposes and for free.
+
+---
+
+## ✍️ Author
+Mohamed Hegazi Bahlol – [LinkedIn](https://www.linkedin.com/in/mohamed-hodaib-2670b2344) | [GitHub](https://github.com/mohamedHodaib)
+
+
+
+---
 
